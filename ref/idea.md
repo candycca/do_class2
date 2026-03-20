@@ -19,4 +19,5 @@ use value iteration to find path and show arrow
 使用 Flask 作為後端，HTML/CSS 作為前端來顯示格子並處理用戶交互。
 確保 Flask 應用程序是交互式的，用戶可以點擊格子來設置起始點、終點、障礙物，並查看生成的政策。
 提供可視化的功能，讓用戶能夠清楚地看到隨機政策、價值函數和最佳政策的變化。
+需要部署到線上（例如使用stramlit）
  
